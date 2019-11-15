@@ -1,0 +1,23 @@
+h1{
+    color:white;
+    background-color:green;
+    text-align:center;
+}
+
+h2{
+    color:white;
+    background-color:greenyellow;
+    text-align:center;
+}
+
+table{
+    background-color:aquamarine;
+}
+
+ol{
+    background-image: url("../images/image3.png");
+}
+
+body{
+    background-image: url("../images/image4.png");
+}
