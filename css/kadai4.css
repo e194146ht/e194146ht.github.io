@@ -1,0 +1,31 @@
+h1.green{
+    color:green;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+h2.orange{
+    color:crimson;
+    background-color:cyan;
+    text-align: center;
+}
+
+p.red{
+    color:brown;
+}
+
+h2.coral{
+    color:coral;
+    background-color: chartreuse;
+    text-align: center;
+}
+
+h1.black{
+    color:aquamarine;
+    background-color: deeppink;
+    text-align: center;
+}
+
+body{
+    background-image: url("../images/image4.png");
+}
